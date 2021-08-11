@@ -1,4 +1,4 @@
-python-wireshark-geolocate
+
 
 A script to geolocate people on streaming media using Wireshark/tshark and the maxminddb-geolite2 python module. Tested on Omegle and Chatroulette.
 
